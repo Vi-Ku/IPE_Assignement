@@ -7,8 +7,8 @@ Files for IPE assignment
 ### This repository a part of the _course_ project at [IIITDM Kancheepuram](http://www.iiitdm.ac.in/). 
 Here in this wee are explorig the various __Algorithms__ used to solve **INVERSE PROBLEMS IN ENGINEERING**. Now having this in mind we will be pointing few key features of this workshop.
 
-1. Algebra
-  a. abced  
+1. Algebra.
+   a. abced  
   - Matrices
   - Transformations
   - Inverse of the Matrix
