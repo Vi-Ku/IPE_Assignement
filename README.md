@@ -4,6 +4,7 @@ Files for IPE assignment
 Here in this wee are explorig the various __Algorithms__ used to solve **INVERSE PROBLEMS IN ENGINEERING**. Now having this in mind we will be pointing few key features of this workshop.
 
 1. Algebra
+  a. abced  
   - Matrices
   - Transformations
   - Inverse of the Matrix
@@ -14,6 +15,7 @@ Here in this wee are explorig the various __Algorithms__ used to solve **INVERSE
   - Mathematics involved in these
   
 To do
+
 -[ ]Submit Matlab Assignment 2.
 -[x]Submit Matlab Assignment 1.
 
