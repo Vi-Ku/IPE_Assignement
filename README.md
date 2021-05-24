@@ -12,7 +12,7 @@ Here in this wee are explorig the various __Algorithms__ used to solve **INVERSE
   -How Computer Tomography works
   -Mathematics involved in these
   
-To do:
+To do
 - [ ]Submit Matlab Assignment 2.
 - [x]Submit Matlab Assignment 1.
 
@@ -26,3 +26,4 @@ sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get i love you
 ```
+use this [file](Assignment-2.xlsx) in your favourite code editor to see my work.
