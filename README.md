@@ -1,3 +1,7 @@
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+
 # IPE_Assignement
 Files for IPE assignment
 ### This repository a part of the _course_ project at [IIITDM Kancheepuram](http://www.iiitdm.ac.in/). 
