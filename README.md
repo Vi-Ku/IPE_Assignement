@@ -1,7 +1,7 @@
 # IPE_Assignement
 Files for IPE assignment
-###This repository a part of the _course_ project at [IIITDM Kancheepuram](http://www.iiitdm.ac.in/). Here in this wee are explorig the various __Algorithms__ used 
-to solve **INVERSE PROBLEMS IN ENGINEERING**. Now having this in mind we will be pointing few key features of this workshop.
+### This repository a part of the _course_ project at [IIITDM Kancheepuram](http://www.iiitdm.ac.in/). 
+Here in this wee are explorig the various __Algorithms__ used to solve **INVERSE PROBLEMS IN ENGINEERING**. Now having this in mind we will be pointing few key features of this workshop.
 1.Linera Algebra
   -Matrices
   -Transformations
@@ -13,8 +13,8 @@ to solve **INVERSE PROBLEMS IN ENGINEERING**. Now having this in mind we will be
   -Mathematics involved in these
   
 To do:
-[]Submit Matlab Assignment 2.
-[x]Submit Matlab Assignment 1.
+- [ ]Submit Matlab Assignment 2.
+- [x]Submit Matlab Assignment 1.
 
 ~~I Have to learn Matlab~~:+1:
 >You can't code unless you don't know why you want to do so, there is a difference between a coder and a typer, you have to decide what you want to be.
